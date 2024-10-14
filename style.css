@@ -1,0 +1,21 @@
+:root{
+    --background-color-title: #FF0070;
+    --text-color-title-focus: #DB00FF;
+    --text-color-title-block: #FF0070;
+    --color-link: #FF0070;
+    --text-color-title-type-3: #000028;
+    --text-color-paragraf: #F1B2CE;
+    --background-color: #000028;
+    --background-image: url("../img/cover-image-dark.svg");
+    --opacity_blub: 1;
+  }
+  @font-face {
+      font-weight: 700;
+      font-family: IBMPlexMono;
+      src: url("../fonts/IBMPlexMono-Bold.ttf");
+  }
+  @font-face {
+      font-weight: 400;
+      font-family: IBMPlexMono;
+      src: url("../fonts/IBMPlexMono-Regular.ttf");  
+}
