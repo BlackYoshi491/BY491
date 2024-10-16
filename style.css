@@ -68,47 +68,7 @@
     border: 1px solid #FF0070;
   }
   
-  .Knp2 {
-    position: absolute ;
-    top: 723px;
-    left: 20px;
-    margin: 0px;
-    width: 25px;
-    height: 25px;
-    max-width: 25px;
-    border-width: 0px 0px 1px 1px;
-    border-style: solid;
-    border-color: #FF0070;
-    
-  }
-  
-  .Knp3 {
-    position:absolute;
-    top: 20px;
-    left: 979px;
-    margin: 0px;
-    width: 25px;
-    height: 25px;
-    max-width: 25px;
-    border-width: 1px 1px 0px 0px ;
-    border-style: solid;
-    border-color: #FF0070;
-  }
-  
-  .Knp1{
-    position: absolute;
-    width: 9px;
-    height: 9px;
-    top: 28px;
-    left: 986px;
-    background: #FF0070;
-    border-radius: 100%;
-  
-    box-shadow: 0 0 4px 2px #ff0070;
-  
-  }
-  
-  .knopkaREC {
+  .REC {
     position: absolute;
     width: 33px;
     height: 26px;
@@ -154,56 +114,4 @@
     line-height: 23.4px;
     background-color: #FF0070;
     color: #000028;
-  }
-  
-  .section1 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 0px;
-    
-    
-    position: absolute;
-    width: 1024px;
-    height: 508px;
-    left: 0px;
-    top: 828px;
-  }
-  
-  
-  .section1 .MCRtxt{
-    position: absolute;
-    width: 314.96px;
-    height: 47px;
-    left: 20px;
-    top: 0px;
-  
-    font-family: 'IBM Plex Mono';
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 23px;
-    color: #FF0070;
-  }
-  .section1 .MCRtxt2{
-    position: absolute;
-    width: 648.92px;
-    height: 23px;
-    right: 20.19px;
-    top: 0px;
-    
-    font-family: 'IBM Plex Mono';
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 23px;
-    background-color: #FF0070;
-    
-    color: #000028;
-  
-  }
-  
-  .section1 .BIGtxt{
-    position: absolute;
-    width: 648.92px;
-    height: 211px;
-    right: 20
   }
